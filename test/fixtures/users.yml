@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  account: one
+  timezone: MyString
+
+two:
+  name: MyString
+  account: two
+  timezone: MyString
